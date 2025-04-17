@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rbtree-lab-main",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "clean-all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean-all-Debug-2c4513ba49e24049f9af.json",
+					"name" : "clean-all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbtree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbtree-Debug-7213096da8c6e319190c.json",
+					"name" : "rbtree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbtree_main_exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbtree_main_exec-Debug-1eda93777bea70f36a15.json",
+					"name" : "rbtree_main_exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbtree_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbtree_test-Debug-fe54fff3ba55b837b6eb.json",
+					"name" : "rbtree_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gojaewoong/Desktop/jungle/rbtree-lab-main/cmake-build-debug",
+		"source" : "/Users/gojaewoong/Desktop/jungle/rbtree-lab-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
