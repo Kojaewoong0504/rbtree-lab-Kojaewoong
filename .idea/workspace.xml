@@ -34,12 +34,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1c52bfba-b1cb-457b-91dd-8757cd69eb29" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-04-17T11-23-30-0483.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/rbtree_test" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/rbtree_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rbtree.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/rbtree.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test-rbtree.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/test-rbtree.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,10 @@
     &quot;accountId&quot;: &quot;19d8bedc-1ac2-4778-8b0f-1d8240c479bf&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
@@ -187,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744887637963</updated>
       <workItem from="1744887640318" duration="17047000" />
-      <workItem from="1744941088251" duration="13001000" />
+      <workItem from="1744941088251" duration="31483000" />
     </task>
     <servers />
   </component>
